@@ -20,7 +20,28 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+![Alt text](img/81.png)
 
+
+![Alt text](img/82.png)
+
+
+![Alt text](img/83.png)
+
+
+![Alt text](img/84.png)
+
+
+![Alt text](img/85.png)
+
+
+![Alt text](img/86.png)
+
+
+![Alt text](img/87.png)
+
+
+![Alt text](img/88.png)
 
 ## RESULT:
 The SQL Injection vulnerability is successfully exploited using the Multidae web application in Metasploitable2.
